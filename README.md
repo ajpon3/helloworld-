@@ -14,7 +14,7 @@
 
   <p align="left">
     <b>🍁 About Me & What I Love:</b><br>
-    I like autumn 🍁, pumpkin chai ☕, Jellycat, Morgan Wallen 🎸, South Park, Jake Gyllenhaal, Starbucks, creative writing ✍️, music 🎧, Daria, Twilight 🍎, The Vampire Diaries, Ponytown 🐴, western culture 🤠, boots, trucks, my Ariat boots, bootcut/flare jeans 👖, Kimes Ranch, Boot Barn, and PBR.
+    I like autumn, pumpkin chai, Jellycat, Morgan Wallen, South Park, Jake Gyllenhaal, Starbucks, creative writing, music, Daria, Twilight, The Vampire Diaries, Ponytown, western culture, boots, trucks, my Ariat boots, bootcut/flare jeans, Kimes Ranch, Boot Barn, and PBR.
   </p>
 
   <br>
